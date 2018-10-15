@@ -13,8 +13,8 @@ Graphic script to install everything in your Linux
 
 ## Credits
 
-* [*@cogumm*](https://github.com/dhyll) (*jedi master*) and 
-* [*@dhyll*](https://github.com/cogumm)(*always beta tester*)
+* [*@cogumm*](https://github.com/cogumm) (*jedi master*) and 
+* [*@dhyll*](https://github.com/dhyll)(*always beta tester*)
 
 ## License
 
