@@ -1,7 +1,5 @@
-# linux-tools-multi-install
+# linux-tools-multi-install :penguin:
 Graphic script to install everything in your Linux
-
-
 
 ## Description
 
